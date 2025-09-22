@@ -1,6 +1,6 @@
 # Something about the Dataset: `Titanic_Dataset_for_Machine_Learning`
 
-Source: [Kaggle] (https://www.kaggle.com/code/nedaamiri/support-vector-machine-titanic)
+Source: [Kaggle](https://www.kaggle.com/code/nedaamiri/support-vector-machine-titanic)
 
 ## Description:
 The data has been split into two groups:
